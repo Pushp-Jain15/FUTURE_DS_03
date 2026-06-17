@@ -214,6 +214,8 @@ Add dashboard screenshot here:
 
 ```md
 ![Dashboard Screenshot](Marketing_Funnel_Dashboard.png)
+<img width="1201" height="672" alt="Screenshot 2026-06-17 171459" src="https://github.com/user-attachments/assets/660e486b-c202-4474-bfc1-e3cbc56b2f31" />
+
 ```
 
 ---
