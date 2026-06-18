@@ -208,9 +208,7 @@ Based on the analysis, the following recommendations are suggested:
 
 ---
 
-## Dashboard Preview
 
-Add dashboard screenshot here:
 
 ## Dashboard Preview
 
