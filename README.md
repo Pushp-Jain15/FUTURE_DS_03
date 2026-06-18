@@ -212,12 +212,9 @@ Based on the analysis, the following recommendations are suggested:
 
 Add dashboard screenshot here:
 
-```md
 ## Dashboard Preview
 
-![Dashboard Screenshot](Marketing_Funnel_Dashboard.png)
-```
-
+<img src="./Marketing_Funnel_Dashboard.png" width="1000">
 ---
 
 ## Project Files Included
